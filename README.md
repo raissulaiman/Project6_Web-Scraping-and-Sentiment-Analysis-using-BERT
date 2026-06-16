@@ -23,3 +23,5 @@ Create a pipeline to predict review sentiment and understand customers' emotions
 
 🛠️ **Tools:**
 Python, Matplotlib, Numpy, Pandas, WordCloud, nltk, transformers (Hugging Face), TensorFlow, Torch, Selenium
+
+🤗 **IndoBERT fine-tuned Model** can be accessed from https://huggingface.co/raissulaiman/indobert-tokopedia-sentiment
