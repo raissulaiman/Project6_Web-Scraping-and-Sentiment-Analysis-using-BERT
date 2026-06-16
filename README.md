@@ -22,4 +22,4 @@ IndoBERT is an algorithm that excels at predicting the sentiment of Indonesian t
 Create a pipeline to predict review sentiment and understand customers' emotions when they review products.
 
 🛠️ **Tools:**
-Python, Matplotlib, Numpy, Pandas, WordCloud, nltk, transformers (Hugging Face), TensorFlow, torch
+Python, Matplotlib, Numpy, Pandas, WordCloud, nltk, transformers (Hugging Face), TensorFlow, Torch, Selenium
